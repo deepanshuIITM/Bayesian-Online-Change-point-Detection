@@ -3,13 +3,13 @@
 
 ![BOCPD](https://github.com/deepanshuIITM/Bayesian-Online-Change-point-Detection/assets/137225940/6a037dcf-aa4b-42d9-be49-28862455a4ea)
 
-**Bayesian online change point detection**
+**Fig: (a) Bayesian online change point detection (b) contour plot of the posterior of run length**
 
 ![image](https://github.com/deepanshuIITM/Bayesian-Online-Change-point-Detection/assets/137225940/2c5cf8ed-1b10-4371-a984-341121bb6007)
 
 ![image](https://github.com/deepanshuIITM/Bayesian-Online-Change-point-Detection/assets/137225940/b20645d8-db8b-4815-bed2-cf06068422ed)
 
-**Fig: (a) Bayesian online change point detection (b) contour plot of the posterior of run length**
+
 
 ![image](https://github.com/deepanshuIITM/Bayesian-Online-Change-point-Detection/assets/137225940/2e4954c3-c8cc-4a02-b0a8-86df7a04cffe)
 
