@@ -1,6 +1,10 @@
 # Course-Project I: Bayesian Online Change-point Detection 
 ### M.S. + Ph.D. Course Project
 
+![BOCPD](https://github.com/deepanshuIITM/Bayesian-Online-Change-point-Detection/assets/137225940/6a037dcf-aa4b-42d9-be49-28862455a4ea)
+
+**Bayesian online change point detection**
+
 ![image](https://github.com/deepanshuIITM/Bayesian-Online-Change-point-Detection/assets/137225940/2c5cf8ed-1b10-4371-a984-341121bb6007)
 
 ![image](https://github.com/deepanshuIITM/Bayesian-Online-Change-point-Detection/assets/137225940/b20645d8-db8b-4815-bed2-cf06068422ed)
